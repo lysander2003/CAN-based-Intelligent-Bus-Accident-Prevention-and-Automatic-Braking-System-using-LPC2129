@@ -1,0 +1,2 @@
+# CAN-based-Intelligent-Bus-Accident-Prevention-and-Automatic-Braking-System-using-LPC2129
+CAN-Based Vehicle Safety and Alert System developed using embedded systems concepts. The project enables real-time communication between vehicle nodes through the Controller Area Network (CAN) protocol to monitor critical events and transmit safety alerts efficiently, ensuring reliable and low-latency data exchange.
