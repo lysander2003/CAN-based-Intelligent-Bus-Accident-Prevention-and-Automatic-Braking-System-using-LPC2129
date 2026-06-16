@@ -98,7 +98,7 @@ int main(void){
     LCD_INIT();
 
     LCD_CMD(0x80); 
-	LCD_STR("V25CE2A2");
+	LCD_STR("V25CE2B1");
     delay_ms(1000);
 	LCD_CMD(0X01);
 	LCD_STR("BUS ACCIDENT PREVENTION");
